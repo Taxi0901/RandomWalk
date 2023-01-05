@@ -129,11 +129,11 @@ void keyPressed(){
 
 
 
-//About the algorithm:
-//A random walk of 100 alternating horizontal and vertical lines within an enclosed space is shown. 
-//The horizontal lines have a high percentage of a thicker width. 
-//The two drawings above show a continuous path, where lines change direction when they hit an edge of the space.
-//The other two drawings (in the catalog) show broken paths which restart at a different position when they hit an edge.
+About the algorithm:
+A random walk of 100 alternating horizontal and vertical lines within an enclosed space is shown. 
+The horizontal lines have a high percentage of a thicker width. 
+The two drawings above show a continuous path, where lines change direction when they hit an edge of the space.
+The other two drawings (in the catalog) show broken paths which restart at a different position when they hit an edge.
 
 
 //This is homework. Important.

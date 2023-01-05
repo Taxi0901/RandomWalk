@@ -77,7 +77,7 @@ void draw(){
 
 void keyPressed(){
   if(key == 'p'|| key == 'P'){ //printout
-    save("img/20220105.png");
+    save("img/20220105_2.png");
   }
   
   if(key == 'r'|| key == 'R'){ //restart
